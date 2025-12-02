@@ -9,10 +9,7 @@ The focus is on authentication, products, cart, and clean UI/UX.
 
 ### Preview
 
-<video src="preview.mp4" controls width="800">
-  Your browser does not support the video tag. You can download and view the file directly:
-  <a href="preview.mp4">preview.mp4</a>
-</video>
+![App preview](preview.gif)
 
 ### Getting Started
 
